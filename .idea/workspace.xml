@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61c8bfe3-0730-4284-a3dd-45bf130645a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/how-to-learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EditorConfigPreviewManager">
+    <editorConfig file="$PROJECT_DIR$/.editorconfig" previewFile="$PROJECT_DIR$/index.html" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ALQOMkV7OJNDacZSln2GhgmKP0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61c8bfe3-0730-4284-a3dd-45bf130645a9" name="Default Changelist" comment="" />
+      <created>1654786352480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654786352480</updated>
+      <workItem from="1654786355549" duration="973000" />
+      <workItem from="1654787341207" duration="2936000" />
+      <workItem from="1654844465379" duration="9444000" />
+      <workItem from="1654873980241" duration="2892000" />
+      <workItem from="1654881073345" duration="3741000" />
+      <workItem from="1654935435628" duration="20302000" />
+      <workItem from="1654963097113" duration="1371000" />
+      <workItem from="1655137566023" duration="388000" />
+      <workItem from="1655192461930" duration="21059000" />
+      <workItem from="1655274801404" duration="15165000" />
+      <workItem from="1655362856773" duration="13750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2635" y="339" key="#Notifications" timestamp="1654792992512">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="715" y="339" key="#Notifications/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1654786433235" />
+    <state x="2635" y="339" key="#Notifications/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1654792992512" />
+    <state x="92" y="92" width="1736" height="848" key="DiffContextDialog" timestamp="1655378033852">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="92" y="92" width="1736" height="848" key="DiffContextDialog/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1655378033852" />
+    <state x="92" y="92" width="1736" height="848" key="DiffContextDialog/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1654792652556" />
+    <state x="935" y="240" key="FileChooserDialogImpl" timestamp="1655377026874">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="935" y="240" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1655377026874" />
+    <state x="656" y="130" key="SettingsEditor" timestamp="1655377718405">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="656" y="130" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1655377718405" />
+    <state x="2576" y="130" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1654795607564" />
+    <state x="777" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1654844739798">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="777" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1654844739798" />
+    <state x="667" y="115" width="585" height="801" key="find.popup" timestamp="1655297301535">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="667" y="115" width="585" height="801" key="find.popup/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1655297301535" />
+    <state x="616" y="238" key="run.anything.popup" timestamp="1654844758234">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" key="run.anything.popup/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1654844758234" />
+    <state x="752" y="374" key="scopes" timestamp="1655318706937">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="752" y="374" key="scopes/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1655318706937" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1655207464744">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1655207464744" />
+  </component>
+</project>
