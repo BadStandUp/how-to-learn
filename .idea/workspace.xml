@@ -26,9 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61c8bfe3-0730-4284-a3dd-45bf130645a9" name="Default Changelist" comment="First version">
+    <list default="true" id="61c8bfe3-0730-4284-a3dd-45bf130645a9" name="Default Changelist" comment="fixed normalize">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <workItem from="1655137566023" duration="388000" />
       <workItem from="1655192461930" duration="21059000" />
       <workItem from="1655274801404" duration="15165000" />
-      <workItem from="1655362856773" duration="14947000" />
+      <workItem from="1655362856773" duration="24538000" />
     </task>
     <task id="LOCAL-00001" summary="First version">
       <created>1655378514564</created>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655378514564</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed normalize">
+      <created>1655379937545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655379937545</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First version" />
-    <option name="LAST_COMMIT_MESSAGE" value="First version" />
+    <MESSAGE value="fixed normalize" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed normalize" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2635" y="339" key="#Notifications" timestamp="1654792992512">
@@ -148,10 +156,10 @@
     </state>
     <state x="656" y="130" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1655377718405" />
     <state x="2576" y="130" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1654795607564" />
-    <state x="552" y="235" key="Vcs.Push.Dialog.v2" timestamp="1655378527822">
+    <state x="552" y="235" key="Vcs.Push.Dialog.v2" timestamp="1655379940472">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="235" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1655378527822" />
+    <state x="552" y="235" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1655379940472" />
     <state x="777" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1654844739798">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
