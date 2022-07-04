@@ -1,4 +1,4 @@
-.kaufman__table {
+.table_content_kaufman {
   grid-template-columns: repeat(5, 200px);
   grid-template-rows: repeat(2, auto);
   grid-gap: 80px 20px;

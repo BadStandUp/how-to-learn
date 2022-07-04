@@ -1,4 +1,4 @@
-.digits__table {
+.table_content_digits {
   width: 1100px;
   justify-content: space-around;
   grid-template-columns: repeat(4, 250px);
